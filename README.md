@@ -9,6 +9,7 @@ NPM - Node Package Manager,
 PostCss,
 Babel - Transpile Modern JavaScript ES6 to ES5, which browsers can understand,
 Web Pack - Work Flow,
-GIT - Version Control
+GIT - Version Control,
+WayPoint - To add Scroll effects 
 
 All relevant packages can be found in package.json file
